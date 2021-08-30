@@ -1,0 +1,109 @@
+@charset "UTF-8";
+
+
+
+.tb {
+	width: 70%;
+	margin: 0 auto;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+.tb1_th {
+	font-weight: bold;
+	color: #696969;
+	border-bottom: #D3D3D3 2px solid;
+	
+}
+
+.tb1_td {
+	border-bottom: 1px #DCDCDC solid;
+}
+
+.tb1_no {
+	background-color: #F8F8FF
+}
+
+.tb2_th {
+	border-bottom: 2px black solid;
+	border-top: 2px black solid;
+}
+
+.tb2_td {
+	border-bottom: 1px #D3D3D3 solid;
+}
+
+.tb3 {
+	border-collapse: separate;
+	border-spacing: 1px;
+}
+
+.tb3_th {
+	background-color: #C3A3A1;
+}
+
+.tb3_td {
+	background-color: #F8F8FF;
+}
+
+.tb4{
+	border-collapse: separate;
+	border-spacing: 5px;
+}
+.tb4_th {
+	height: 40px;
+	font-weight: bolder;
+}
+
+.basic {
+	color: #88A185;
+	width: 33.3%;
+	border-top: 2px solid #88A185;
+}
+
+.stand {
+	color: #8091B0;
+	width: 33.4%;
+	border-top: 2px solid #8091B0;
+}
+
+.premium {
+	color: #8D738F;
+	width: 33.3%;
+	border-top: 2px solid #8D738F;
+}
+
+.tb4_td {
+	height: 25px;
+	font-weight: bold;
+	color: white;
+}
+
+.td_basic {
+	background-color: #88A185;
+}
+
+.td_stand {
+	background-color: #8091B0;
+}
+
+.td_premium {
+	background-color: #8D738F;
+}
+
+.tb4_con {
+	color: gray;
+	height: 25px;
+}
+
+.basic_last {
+	border-bottom: 2px solid #88A185;
+}
+
+.stand_last {
+	border-bottom: 2px solid #8091B0;
+}
+
+.premium_last {
+	border-bottom: 2px solid #8D738F;
+}
